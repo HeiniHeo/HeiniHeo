@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Heini's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeiniHeo&show_icons=true&theme=radical)
+
+<img src="https://img.shields.io/badge/#003545?style=flat-square&logo=#003545&logoColor=black"/>
